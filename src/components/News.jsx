@@ -250,19 +250,6 @@ export class News extends Component {
             "publishedAt": "2021-11-01T09:45:07Z",
             "content": "Last year, with much of the U.S. in lockdown, my family was spread apart for Thanksgiving. Instead of making a 26-pound turkey, cornbread and crawfish stuffing and the requisite five pies, I went min… [+11491 chars]"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Xataka.com"
-            },
-            "author": "Javier Lacort",
-            "title": "'La píldora Serrahima', una joya para la historia de las telecomunicaciones en España",
-            "description": "El de las telecomunicaciones es un sector donde apenas hay estrellas mediáticas. Los usuarios pagamos nuestras tarifas de voz y datos sin mucha más historia, sin conocer a menudo los rostros detrás de esas empresas. Para bien o para mal, es un sector que se h…",
-            "url": "https://www.xataka.com/empresas-y-economia/pildora-serrahima-joya-para-historia-telecomunicaciones-espana",
-            "urlToImage": "https://i.blogs.es/032da5/portada/840_560.jpeg",
-            "publishedAt": "2021-11-01T11:00:33Z",
-            "content": "El de las telecomunicaciones es un sector donde apenas hay estrellas mediáticas. Los usuarios pagamos nuestras tarifas de voz y datos sin mucha más historia, sin conocer a menudo los rostros detrás d… [+6468 chars]"
-        }
     ]
 
     constructor() {
