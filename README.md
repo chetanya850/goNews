@@ -1,0 +1,2 @@
+# goNews
+News platform
