@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Word-Magic/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Word-Magic/static/js/main.17dc72d9.chunk.js",
+    "main.js.map": "/Word-Magic/static/js/main.17dc72d9.chunk.js.map",
+    "runtime-main.js": "/Word-Magic/static/js/runtime-main.41543a83.js",
+    "runtime-main.js.map": "/Word-Magic/static/js/runtime-main.41543a83.js.map",
+    "static/js/2.9c1f9cbb.chunk.js": "/Word-Magic/static/js/2.9c1f9cbb.chunk.js",
+    "static/js/2.9c1f9cbb.chunk.js.map": "/Word-Magic/static/js/2.9c1f9cbb.chunk.js.map",
+    "static/js/3.f7d0ab8b.chunk.js": "/Word-Magic/static/js/3.f7d0ab8b.chunk.js",
+    "static/js/3.f7d0ab8b.chunk.js.map": "/Word-Magic/static/js/3.f7d0ab8b.chunk.js.map",
+    "index.html": "/Word-Magic/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Word-Magic/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9c1f9cbb.chunk.js.LICENSE.txt": "/Word-Magic/static/js/2.9c1f9cbb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41543a83.js",
+    "static/js/2.9c1f9cbb.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.17dc72d9.chunk.js"
+  ]
+}
