@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export class NewsItem extends Component {
     render() {
 
-        let { title, description, imageUrl, newsUrl } = this.props;  //Object destructuring where props is in the form of an object
+        let { title, description, imageUrl, newsUrl } = this.props;  //Object destructuring where props is in the form of an object (bs this.props.title pura na likhna padhe isiliye)
         return (
             <div className="container my-3">
                 <div className="card" style={{ width: "18rem" }}>
